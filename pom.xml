@@ -39,9 +39,9 @@
   <packaging>pom</packaging>
 
   <scm>
-    <connection>scm:svn:http://anonsvn.jboss.org/repos/jbossws/container/wildfly82/branches/jbossws-wildfly820</connection>
-    <developerConnection>scm:svn:https://svn.jboss.org/repos/jbossws/container/wildfly82/branches/jbossws-wildfly820</developerConnection>
-    <url>http://fisheye.jboss.com/viewrep/JBossWS/container/wildfly82/branches/jbossws-wildfly820</url>
+    <connection>scm:git:https://github.com/jbossws/jbossws-wildfly82.git</connection>
+    <developerConnection>scm:git:https://github.com/jbossws/jbossws-wildfly82.git</developerConnection>
+    <url>https://github.com/jbossws/jbossws-wildfly82</url>
   </scm>
 
   <modules>
