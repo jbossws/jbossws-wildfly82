@@ -31,10 +31,10 @@
     <version>1.2.0.Final</version>
   </parent>
 
-  <name>JBossWS WildFly 8.2.0.Final Integration Parent</name>
-  <description>JBossWS WildFly 8.2.0.Final Integration Parent</description>
+  <name>JBossWS WildFly 8.2.1.Final Integration Parent</name>
+  <description>JBossWS WildFly 8.2.1.Final Integration Parent</description>
   <groupId>org.jboss.ws</groupId>
-  <artifactId>jbossws-wildfly820-parent</artifactId>
+  <artifactId>jbossws-wildfly821-parent</artifactId>
   <version>5.1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
@@ -54,7 +54,7 @@
     <jbossws.spi.version>3.0.0.Final</jbossws.spi.version>
     <jbossws.common.version>3.0.0.Final</jbossws.common.version>
     <jboss.msc.version>1.2.2.Final</jboss.msc.version>
-    <wildfly.version>8.2.0.Final</wildfly.version>
+    <wildfly.version>8.2.1.Final</wildfly.version>
     <wildfly.security-manager.version>1.0.0.Final</wildfly.security-manager.version>
     <marshalling.river.version>1.4.9.Final</marshalling.river.version>
     <remote.naming.version>2.0.1.Final</remote.naming.version>
@@ -62,8 +62,8 @@
     <ejb.client.version>2.0.1.Final</ejb.client.version>
     <ejb3.ext.api.version>2.1.0</ejb3.ext.api.version>
     <javassist.version>3.18.1-GA</javassist.version>
-    <xerces.version>2.9.1-jbossas-2</xerces.version>
-    <remoting.version>4.0.6.Final</remoting.version>
+    <xerces.version>2.11.0.SP3</xerces.version>
+    <remoting.version>4.0.7.Final</remoting.version>
     <remoting.jmx.version>2.0.0.Final</remoting.jmx.version>
     <jbossxb.version>2.0.3.GA</jbossxb.version>
     <hornetq.version>2.4.5.Final</hornetq.version>
