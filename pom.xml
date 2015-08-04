@@ -34,14 +34,14 @@
   <description>JBossWS WildFly 8.2.1.Final Integration Parent</description>
   <groupId>org.jboss.ws</groupId>
   <artifactId>jbossws-wildfly821-parent</artifactId>
-  <version>5.0.1.Final</version>
+  <version>5.0.2-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <scm>
     <connection>scm:git:https://github.com/jbossws/jbossws-wildfly82.git</connection>
     <developerConnection>scm:git:https://github.com/jbossws/jbossws-wildfly82.git</developerConnection>
     <url>https://github.com/jbossws/jbossws-wildfly82</url>
-    <tag>jbossws-wildfly821-5.0.1.Final</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <modules>
